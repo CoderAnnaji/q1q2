@@ -1,0 +1,1 @@
+Draw an architecture diagram for a loadbalanced, distributed and autoscaling enabled application configuration.
