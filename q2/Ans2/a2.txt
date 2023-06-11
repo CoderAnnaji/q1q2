@@ -1,0 +1,1 @@
+sed '/# IPv4 local connections:/a host  master_db    tom        172.16.2.30        md5' sample_pg_hba.conf > updated_pg_hba.conf
